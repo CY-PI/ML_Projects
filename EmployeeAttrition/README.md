@@ -20,4 +20,4 @@ Python · pandas · scikit-learn · XGBoost · statsmodels
 
 ## ▶️ How to Run
 
-Open `notebook.ipynb` in Google Colab and run all cells — dependencies are installed automatically in the first cell.
+Open `MVP_ML_Analytics_20261_Cyntia_English.ipynb` in Google Colab and run all cells — dependencies are installed automatically in the first cell.
